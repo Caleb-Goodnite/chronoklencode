@@ -185,7 +185,7 @@
 
 <div class="page">
 	<header class="header">
-		<h1>Encode.io</h1>
+		<h1>Chronokl Encoder</h1>
 		<p class="subtitle">Real-time encoding with cipher chaining</p>
 	</header>
 
